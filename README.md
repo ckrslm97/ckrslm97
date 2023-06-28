@@ -15,6 +15,11 @@
 
 🏆 Notable Projects:
 
-- Movie Recommendation Interface : Developed a user interface for a movie recommendation system.
+🎬 Movie Recommendation Interface : Developed a user interface for a movie recommendation system.
 
-- RFM : Developed an RFM project to segment customers and implement targeted marketing campaigns and personalized recommendations.
+📈 RFM : Developed an RFM project to segment customers and implement targeted marketing campaigns and personalized recommendations.
+
+
+🔍 If you are interested in more details,
+
+    📫 https://www.linkedin.com/in/selimcakir123/
